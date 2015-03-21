@@ -1,0 +1,29 @@
+List of possible search engines:
+# Regular Web Search
+X Google.com
+X Google.de
+? IxQuick.de
+X DuckDuckGo.com
+ WebCrawler.com
+
+# Wikipedia
+X de.wikipedia.org
+X en.wikipedia.org
+
+# Linux searches
+ wiki.archlinux.org
+ packages.archlinux.org
+ packages.debian.org
+ distrowatch
+
+# Maps
+X maps.google.com
+X openstreetmap.org
+
+# Video
+ youtube.com
+ vimeo.com
+
+# Audio
+ SoundCloud
+ 

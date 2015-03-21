@@ -1,0 +1,26 @@
+body {padding: 0; margin: 0;top: 0px; left: 0px;}
+
+#top_bar {
+    position: fixed; height: 20px; top: 0px; margin-top: 0px; width: 100%; text-align: center;
+    background-color: #101010; color: #FFFFFF;
+}
+
+section { padding: 5px; padding-left: 40px; background-repeat: no-repeat; background-position: 0px 50%;  }
+#web-search { background-image: url("web.png"); background-color: #f1c40f; background-size: 40px; }
+#maps { background-image: url("maps.png"); background-color: #2ecc71; background-size: 40px; }
+#wikipedia { background-image: url("wikipedia.png"); background-color: #9b59b6; background-size: 40px; }
+#linux { background-image: url("linux.png"); background-color: #3498db; background-size: 40px; }
+
+article { padding: 10px; margin: 10px; background-color: #95a5a6; }
+
+.text_wrapper { margin-right: 160px; height: 35px; }
+.text_input {
+    height: 35px; border: 1px dashed #AAAAAA; padding-left: 5px; border-radius: 3px; 
+    font-size: 120%; box-sizing: border-box; width: 100%;
+}
+
+.submit-button {
+    height: 35px; margin: 0 auto; text-align:center; float: right; margin-top: -35px; /*ugly hack. i hate css*/
+}
+.submit-button:hover { color: #505050; border: 1px solid #909090;}
+
